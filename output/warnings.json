@@ -1,0 +1,31 @@
+{
+  "completeness_score": 100,
+  "quality_score": 79,
+  "overall_score": 89,
+  "warnings": [
+    {
+      "field": "headline",
+      "severity": "warning",
+      "message": "Generic headline detected",
+      "suggestion": "AI Engineer & Backend Developer"
+    },
+    {
+      "field": "projects[1]",
+      "severity": "warning",
+      "message": "Project description may be too short",
+      "suggestion": "Describe project functionality and impact"
+    },
+    {
+      "field": "projects[3]",
+      "severity": "warning",
+      "message": "Project description may be too short",
+      "suggestion": "Describe project functionality and impact"
+    },
+    {
+      "field": "profile_image",
+      "severity": "info",
+      "message": "Profile image missing",
+      "suggestion": "Upload a professional profile image"
+    }
+  ]
+}

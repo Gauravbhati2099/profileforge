@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ profile.name }}</title>
+</head>
+
+<body>
+
+<h1>{{ profile.name }}</h1>
+
+<h2>{{ profile.headline }}</h2>
+
+<p>{{ profile.summary }}</p>
+
+<hr>
+
+<h2>Skills</h2>
+
+<ul>
+{% for skill in profile.skills %}
+    <li>{{ skill.name }}</li>
+{% endfor %}
+</ul>
+
+<hr>
+
+<h2>Experience</h2>
+
+{% for exp in profile.experience %}
+
+<h3>{{ exp.role }}</h3>
+
+<p>{{ exp.company }}</p>
+
+<p>
+{{ exp.start_date }}
+-
+{{ exp.end_date }}
+</p>
+
+<p>{{ exp.description }}</p>
+
+{% endfor %}
+
+<hr>
+
+<h2>Projects</h2>
+
+{% for project in profile.projects %}
+
+<h3>{{ project.name }}</h3>
+
+<p>{{ project.description }}</p>
+
+{% endfor %}
+
+<hr>
+
+<h2>Education</h2>
+
+{% for edu in profile.education %}
+
+<p>
+{{ edu.degree }}
+<br>
+{{ edu.institution }}
+</p>
+
+{% endfor %}
+
+</body>
+</html>
