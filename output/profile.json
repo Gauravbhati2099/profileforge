@@ -1,0 +1,248 @@
+{
+  "name": "GAURAV SINGH BHATI",
+  "headline": "Professional",
+  "summary": "AI Engineer and Backend Developer with experience building LLM-powered applications, retrieval systems, workflow orchestration platforms, and natural-language database interfaces.",
+  "location": "Udaipur, Rajasthan 313003",
+  "profile_image": null,
+  "contact": {
+    "email": "gauravbhati2099@gmail.com",
+    "phone": "+91 7425841804"
+  },
+  "github": "https://github.com/gauravbhati2099",
+  "linkedin": "https://www.linkedin.com/in/gauravbhati2099",
+  "website": "",
+  "links": [],
+  "skills": [
+    {
+      "name": "Core AI & Backend",
+      "category": null
+    },
+    {
+      "name": "Engineering & Operations",
+      "category": null
+    },
+    {
+      "name": "LLMs and prompt engineering",
+      "category": null
+    },
+    {
+      "name": "OpenTelemetry for observability",
+      "category": null
+    },
+    {
+      "name": "NLP and semantic search",
+      "category": null
+    },
+    {
+      "name": "Git and GitHub version control",
+      "category": null
+    },
+    {
+      "name": "Retrieval augmented generation (RAG)",
+      "category": null
+    },
+    {
+      "name": "Workflow orchestration techniques",
+      "category": null
+    },
+    {
+      "name": "Vector retrieval strategies",
+      "category": null
+    },
+    {
+      "name": "System design principles",
+      "category": null
+    },
+    {
+      "name": "FastAPI and Flask frameworks",
+      "category": null
+    },
+    {
+      "name": "Authorization systems management",
+      "category": null
+    },
+    {
+      "name": "REST APIs and asynchronous processing",
+      "category": null
+    },
+    {
+      "name": "Logging and monitoring practices",
+      "category": null
+    },
+    {
+      "name": "MongoDB, SQL, and NoSQL databases",
+      "category": null
+    },
+    {
+      "name": "Python and C++ programming",
+      "category": null
+    },
+    {
+      "name": "ETL pipelines development",
+      "category": null
+    },
+    {
+      "name": "data analysis and visualization",
+      "category": null
+    }
+  ],
+  "experience": [
+    {
+      "company": "ONEPWS Pvt. Ltd.",
+      "role": "AI Engineer Intern",
+      "start_date": "06/2026",
+      "end_date": "",
+      "location": "Udaipur, Rajasthan 313003",
+      "description": "Designed and developed a workflow-driven intelligent assistant platform integrating conversational AI, persistent memory, document processing, authorization, and natural-language database querying.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "MongoDB",
+        "LangGraph",
+        "Redis",
+        "OpenTelemetry"
+      ]
+    },
+    {
+      "company": "Tech Adaptive Pandit Pty Ltd.",
+      "role": "AI Research Intern",
+      "start_date": "12/2025",
+      "end_date": "02/2026",
+      "location": "",
+      "description": "Conducted comparative analyses of model performance using structured testing methodologies to inform model improvements.",
+      "technologies": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Intelligent Customer Support Platform",
+      "description": "Python, FastAPI, MongoDB, LangGraph, Redis, LLMs",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "MongoDB",
+        "LangGraph",
+        "Redis",
+        "LLMs"
+      ],
+      "tags": [
+        "Python",
+        "FastAPI",
+        "MongoDB",
+        "LangGraph",
+        "Redis",
+        "LLMs"
+      ],
+      "github_url": null,
+      "live_url": null,
+      "image_url": null
+    },
+    {
+      "name": "Natural Language MongoDB Query Engine",
+      "description": "Python, MongoDB, LLMs",
+      "technologies": [
+        "Python",
+        "MongoDB",
+        "LLMs"
+      ],
+      "tags": [
+        "Python",
+        "MongoDB",
+        "LLMs"
+      ],
+      "github_url": null,
+      "live_url": null,
+      "image_url": null
+    },
+    {
+      "name": "RAG Policy Assistant",
+      "description": "Python, FastAPI, Vector Retrieval, RAG",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Vector Retrieval",
+        "RAG"
+      ],
+      "tags": [
+        "Python",
+        "FastAPI",
+        "Vector Retrieval",
+        "RAG"
+      ],
+      "github_url": null,
+      "live_url": null,
+      "image_url": null
+    },
+    {
+      "name": "YouTube Sentiment Analysis Platform",
+      "description": "Flask, React, NLP",
+      "technologies": [
+        "Flask",
+        "React",
+        "NLP"
+      ],
+      "tags": [
+        "Flask",
+        "React",
+        "NLP"
+      ],
+      "github_url": null,
+      "live_url": null,
+      "image_url": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Geetanjali Institute of Technical Studies Udaipur, Rajasthan",
+      "degree": "Bachelor of Technology (B.Tech) Computer Science and Engineering",
+      "field_of_study": "Computer Science and Engineering",
+      "start_date": "08/2027",
+      "end_date": null,
+      "grade": ""
+    }
+  ],
+  "certifications": [
+    {
+      "title": "RHCSA (Red Hat Certified System Administrator)",
+      "issuer": "Red Hat",
+      "issued_date": "",
+      "credential_id": ""
+    },
+    {
+      "title": "Machine Learning Specialization — DeepLearning.AI",
+      "issuer": "DeepLearning.AI",
+      "issued_date": "",
+      "credential_id": ""
+    },
+    {
+      "title": "Google Data Analytics Professional Certificate",
+      "issuer": "Google",
+      "issued_date": "",
+      "credential_id": ""
+    },
+    {
+      "title": "Google GenAI Intensive 2025",
+      "issuer": "Google",
+      "issued_date": "",
+      "credential_id": ""
+    },
+    {
+      "title": "Google Agentic AI Intensive 2026",
+      "issuer": "Google",
+      "issued_date": "",
+      "credential_id": ""
+    }
+  ],
+  "achievements": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ],
+  "publications": [],
+  "metadata": {
+    "source_file": null,
+    "generated_at": "2026-06-23T06:55:28.467869",
+    "version": "1.0"
+  }
+}
